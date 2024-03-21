@@ -3,11 +3,9 @@
   "description": "Global menu for Gnome",
   "settings-schema": "org.gnome.shell.extensions.fildem-global-menu",
   "shell-version": [
-    "3.36",
-    "3.38",
-    "40",
-    "41",
-    "42"
+    "44",
+    "45",
+    "46"
   ],
   "url": "https://github.com/gonzaarcr/Fildem",
   "uuid": "fildemGMenu@gonza.com"
