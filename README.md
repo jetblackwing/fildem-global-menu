@@ -2,7 +2,6 @@
 
 ## Global menu for Gnome
 
-[![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://buymeacoffee.com/gonza)
 
 ![Fildem](https://user-images.githubusercontent.com/19943481/95288612-1d272a80-083f-11eb-9400-be88f61e054d.png)
 
@@ -83,6 +82,4 @@ Since it’s not possible to create a shortcut from the app on Wayland, you have
 
 To see a list of apps that work check [the wiki](https://github.com/gonzaarcr/Fildem/wiki/Using#state-of-the-apps)
 
-## Installation troubleshooting
 
-If you have any questions on how to get it to work, please don’t create an issue, use [this discussion](https://github.com/gonzaarcr/Fildem/discussions/33).
